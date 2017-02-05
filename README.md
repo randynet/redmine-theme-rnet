@@ -6,7 +6,7 @@
 
 ## Installing
 
-    cd redmine/public/theme
+    cd redmine/public/themes
     git clone https://github.com/smiyabe/redmine-theme-rnet.git rnet
 
 
